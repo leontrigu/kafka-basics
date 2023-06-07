@@ -1,5 +1,5 @@
 # kafka-basics
-How it works. Basic example
+How it works. Basic example with Spring Boot
 You must have kafka up and running locally.
 
 Windows Commands:
